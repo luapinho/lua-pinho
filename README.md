@@ -74,7 +74,7 @@ em diferentes linguagens.
 
 | Tecnologia | Projetos |
 |:--|:--|
-| Dart | [Explorar](https://github.com/luapinho?tab=repositories&q=dart) |
+| Dart | [Explorar](https://github.com/luapinho/Molinari.git) |
 | Python | [Explorar](https://github.com/luapinho?tab=repositories&q=python) |
 | C++ | [Explorar](https://github.com/luapinho?tab=repositories&q=cpp) |
 | HTML | [Explorar](https://github.com/luapinho?tab=repositories&q=html) |
