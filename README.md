@@ -84,6 +84,12 @@ em diferentes linguagens.
 | JavaScript | [visualizar](https://github.com/luapinho/AvaliacaoS.git) |
 | SQL / MySQL | [visualizar](https://github.com/luapinho?tab=repositories&q=sql) |
 
+<a href="https://github.com/luapinho?tab=organizations">
+  <img src="https://img.shields.io/badge/🏢_Minhas_organizações-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
 ---
 
 ## ✦ Atividade no GitHub
