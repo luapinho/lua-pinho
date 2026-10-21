@@ -76,7 +76,6 @@ em diferentes linguagens.
 |:--|:--|
 | Dart | [Explorar](https://github.com/luapinho/Molinari.git) |
 | Python | [Explorar](https://github.com/luapinho/Programacao-Algoritmo.git) |
-| C++ | [Explorar](https://github.com/luapinho?tab=repositories&q=cpp) |
 | HTML | [Explorar](https://github.com/luapinho?tab=repositories&q=html) |
 | CSS | [Explorar](https://github.com/luapinho?tab=repositories&q=css) |
 | JavaScript | [Explorar](https://github.com/luapinho?tab=repositories&q=javascript) |
