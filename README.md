@@ -45,13 +45,12 @@ isso que torna o caminho interessante.
 ## ✦ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,cpp,html,css,js,mysql,git,github,vscode&theme=dark" alt="Dart, Python, C++, HTML, CSS, JavaScript, MySQL, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=dart,python,cpp,html,css,js,mysql,git,github,vscode&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL, Git, GitHub e VS Code" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-bd70d6?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-9875d5?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-d45b91?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-e96868?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-bb65d8?style=flat-square&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-e8b6e0?style=flat-square&logo=javascript&logoColor=222222" />
