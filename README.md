@@ -57,6 +57,15 @@ isso que torna o caminho interessante.
   <img src="https://img.shields.io/badge/SQL-9c6ad6?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
+### 🛠️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/VS_Code_Insiders-24BFA5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
 ---
 
 ## ✧ Projetos
