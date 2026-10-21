@@ -90,9 +90,11 @@ em diferentes linguagens.
 </a>
 </p>
 |organização em grupo|
-|:--|:--|
-| squad | [visualizar](
+<a href="https://github.com/NOME-DA-ORGANIZACAO">
+  <img src="https://img.shields.io/badge/Minha_organização-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+</div>
 <br><br>
 
 ---
