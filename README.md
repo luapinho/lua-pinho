@@ -89,11 +89,14 @@ em diferentes linguagens.
   <img src="https://img.shields.io/badge/🏢_Minhas_organizações-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
+<p align="center">
 <a|organização em grupo|</a>
 <a href="https://github.com/Pentabyte5/Trabalho-dev.git">
-  <img src="https://img.shields.io/badge/Minha_organização-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minha_organização_grupo-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 ---
+</p>
 
 ## ✦ Atividade no GitHub
 
