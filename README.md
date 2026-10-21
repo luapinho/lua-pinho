@@ -1,9 +1,4 @@
 
-<!--
-  LUANA PINHO | GITHUB PROFILE
-  Paleta: preto, rosa, roxo e vermelho
--->
-
 <!-- BANNER -->
 <div align="center">
   <img
@@ -57,7 +52,7 @@ isso que torna o caminho interessante.
   <img src="https://img.shields.io/badge/SQL-9c6ad6?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas
+### ✦ Ferramentas
 
 <div align="center">
 
@@ -82,7 +77,7 @@ em diferentes linguagens.
 
 | Tecnologia | Projetos |
 |:--|:--|
-| Dart | [Explorar](https://github.com/luapinho/Molinari.git) |
+| Dart | [visualizar](https://github.com/luapinho/Molinari.git) |
 | Python | [Explorar](https://github.com/luapinho/Programacao-Algoritmo.git) |
 | HTML | [Explorar](https://github.com/luapinho/Sandra.git) |
 | CSS | [Explorar](https://github.com/luapinho/Projeto-Aula-DS.git) |
