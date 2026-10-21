@@ -45,7 +45,7 @@ isso que torna o caminho interessante.
 ## ✦ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,html,css,js,mysql,git,github,vscode&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=dart,python,html,css,js,mysql&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL" />
 </p>
 
 <p align="center">
