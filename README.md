@@ -89,6 +89,9 @@ em diferentes linguagens.
   <img src="https://img.shields.io/badge/🏢_Minhas_organizações-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+|organização em grupo|
+|:--|:--|
+| squad | [visualizar](
 
 <br><br>
 
