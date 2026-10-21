@@ -77,7 +77,7 @@ em diferentes linguagens.
 | Python | [Explorar](https://github.com/luapinho/Programacao-Algoritmo.git) |
 | HTML | [Explorar](https://github.com/luapinho/Sandra.git) |
 | CSS | [Explorar](https://github.com/luapinho?tab=repositories&q=css) |
-| JavaScript | [Explorar](https://github.com/luapinho?tab=repositories&q=javascript) |
+| JavaScript | [Explorar](https://github.com/luapinho/AvaliacaoS.git) |
 | SQL / MySQL | [Explorar](https://github.com/luapinho?tab=repositories&q=sql) |
 
 ---
