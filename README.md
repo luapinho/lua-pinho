@@ -95,7 +95,6 @@ em diferentes linguagens.
 <a href="https://github.com/Pentabyte5/Trabalho-dev.git">
   <img src="https://img.shields.io/badge/Minha_organização_grupo-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
----
 </p>
 
 ## ✦ Atividade no GitHub
