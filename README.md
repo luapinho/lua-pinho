@@ -5,13 +5,13 @@
 -->
 
 <!-- BANNER -->
-<p align="center">
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:160d20,35:54206f,70:c34c9b,100:ed4765&height=190&section=header&text=Luana%20Pinho&fontSize=48&fontColor=fff0fa&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,35:51205F,70:D94B85,100:9D253F&height=220&section=header&text=Luana%20Pinho&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Entre%20as%20fases%20da%20Lua&descSize=16&descAlignY=60"
     width="100%"
-    alt="Banner de Luana Pinho em tons de rosa e roxo"
+    alt="Banner lunar de Luana Pinho"
   />
-</p>
+</div>
 
 <h3 align="center">
   ☾ &nbsp; Tecnologia · Curiosidade · Descobertas &nbsp; ☽
