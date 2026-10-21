@@ -45,7 +45,7 @@ isso que torna o caminho interessante.
 ## ✦ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,cpp,html,css,js,mysql,git,github,vscode&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=dart,python,html,css,js,mysql,git,github,vscode&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL, Git, GitHub e VS Code" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ em diferentes linguagens.
 |:--|:--|
 | Dart | [Explorar](https://github.com/luapinho/Molinari.git) |
 | Python | [Explorar](https://github.com/luapinho/Programacao-Algoritmo.git) |
-| HTML | [Explorar](https://github.com/luapinho?tab=repositories&q=html) |
+| HTML | [Explorar](https://github.com/luapinho/Sandra.git) |
 | CSS | [Explorar](https://github.com/luapinho?tab=repositories&q=css) |
 | JavaScript | [Explorar](https://github.com/luapinho?tab=repositories&q=javascript) |
 | SQL / MySQL | [Explorar](https://github.com/luapinho?tab=repositories&q=sql) |
