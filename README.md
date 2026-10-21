@@ -105,14 +105,15 @@ em diferentes linguagens.
 
 <p align="center">
   <a href="https://www.instagram.com/lluanapinhok/">
-    <img src="https://img.shields.io/badge/Instagram-c34c9b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/luana-pinho-b86a06412/">
+    <img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:luanapinho1000@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-8250b5?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
-
 ---
 
 <p align="center">
