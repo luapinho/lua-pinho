@@ -78,11 +78,11 @@ em diferentes linguagens.
 | Tecnologia | Projetos |
 |:--|:--|
 | Dart | [visualizar](https://github.com/luapinho/Molinari.git) |
-| Python | [Explorar](https://github.com/luapinho/Programacao-Algoritmo.git) |
-| HTML | [Explorar](https://github.com/luapinho/Sandra.git) |
-| CSS | [Explorar](https://github.com/luapinho/Projeto-Aula-DS.git) |
-| JavaScript | [Explorar](https://github.com/luapinho/AvaliacaoS.git) |
-| SQL / MySQL | [Explorar](https://github.com/luapinho?tab=repositories&q=sql) |
+| Python | [visualizar](https://github.com/luapinho/Programacao-Algoritmo.git) |
+| HTML | [visualizar](https://github.com/luapinho/Sandra.git) |
+| CSS | [visualizar](https://github.com/luapinho/Projeto-Aula-DS.git) |
+| JavaScript | [visualizar](https://github.com/luapinho/AvaliacaoS.git) |
+| SQL / MySQL | [visualizar](https://github.com/luapinho?tab=repositories&q=sql) |
 
 ---
 
@@ -127,5 +127,5 @@ em diferentes linguagens.
 </p>
 
 <p align="center">
-  ☾ &nbsp; <i>Um espaço para aprender, experimentar e continuar.</i> &nbsp; ☽
+  ☾ &nbsp; <i>Um espaço para aprender, experimentar e continuar, com as fases da 🌙</i> &nbsp; ☽
 </p>
