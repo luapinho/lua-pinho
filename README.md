@@ -82,7 +82,7 @@ em diferentes linguagens.
 | HTML | [visualizar](https://github.com/luapinho/Sandra.git) |
 | CSS | [visualizar](https://github.com/luapinho/Projeto-Aula-DS.git) |
 | JavaScript | [visualizar](https://github.com/luapinho/AvaliacaoS.git) |
-| SQL / MySQL | [visualizar](https://github.com/luapinho?tab=repositories&q=sql) |
+| SQL / MySQL | [visualizar]((https://github.com/luapinho/Banco_Dados.git)) |
 
 <p align="center">
 <a href="https://github.com/luapinho?tab=organizations">
