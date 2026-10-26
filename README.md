@@ -99,6 +99,6 @@ SQL / MySQL	Banco de Dados
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=%E2%80%9CAt%C3%A9%20a%20Lua%20precisa%20de%20fases%20para%20brilhar.%E2%80%9D&fontSize=15&fontColor=C783AC" width="100%" alt="Até a Lua precisa de fases para brilhar" />
 
 <p>
-☾　✧　<i>Em constante transformação, sempre descobrindo.</i>　✧　☽
+☾　✧　<i>Em constante transformação, como a Lua.</i>　✧　☽
 </p>
 </div>
