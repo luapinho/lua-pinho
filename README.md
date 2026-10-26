@@ -1,143 +1,104 @@
-
-<!-- BANNER -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,35:51205F,70:D94B85,100:9D253F&height=220&section=header&text=Luana%20Pinho&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Entre%20as%20fases%20da%20Lua&descSize=16&descAlignY=60"
-    width="100%"
-    alt="Banner lunar de Luana Pinho"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B193D,35:704477,70:C783AC,100:8F354F&height=190&section=header&text=Luana%20Pinho&fontSize=42&fontColor=FFF4FA&fontAlignY=40&desc=Entre%20as%20fases%20da%20Lua&descSize=14&descAlignY=62" width="100%" alt="Banner lunar de Luana Pinho" />
 </div>
 
-<h3 align="center">
-  ☾ &nbsp; Tecnologia · Curiosidade · Descobertas &nbsp; ☽
-</h3>
+<p align="center">
+☾　✦　🌙　✦　☽
+</p>
+
+<h3 align="center">Tecnologia · Curiosidade · Descobertas</h3>
 
 <p align="center">
-  Gosto de entender como as coisas funcionam, experimentar ideias
-  e aprender no processo.
+<i>Como a Lua, estou sempre em uma nova fase de aprendizado.</i>
 </p>
 
 <p align="center">
-  Aqui reúno um pouco do que estudo, do que crio
-  e do que ainda quero descobrir.
+Um cantinho para reunir ideias, projetos e pequenas descobertas pelo caminho.
 </p>
 
----
+☾ Sobre mim
 
-## ☾ Sobre mim
+Olá, sou a Luana Pinho!
 
-Sou Luana Pinho.
+Gosto de explorar novas ideias, aprender coisas diferentes e descobrir como a tecnologia pode transformar pensamentos em criações.
 
-Gosto de explorar ideias, aprender coisas novas e descobrir
-como diferentes tecnologias podem ser usadas para criar algo.
+Este espaço reúne um pouco da minha jornada na programação, dos projetos que desenvolvo e de tudo o que ainda quero aprender.
 
-Este espaço reúne meus estudos, projetos e experiências
-com programação. Ainda há muito para aprender, e é justamente
-isso que torna o caminho interessante.
+Cada fase traz uma nova descoberta. ✧
 
----
-
-## ✦ Tecnologias
+✦ Meu universo tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,html,css,js,mysql&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL" />
+<img src="https://skillicons.dev/icons?i=dart,python,html,css,js,mysql,git,github,vscode&theme=dark" alt="Dart, Python, HTML, CSS, JavaScript, MySQL, Git, GitHub e VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-bd70d6?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-9875d5?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-e96868?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-bb65d8?style=flat-square&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-e8b6e0?style=flat-square&logo=javascript&logoColor=222222" />
-  <img src="https://img.shields.io/badge/SQL-9c6ad6?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-9B6BB3?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Python-BB8FCE?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-D879A8?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-BB75B8?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-E6B8D0?style=flat-square&logo=javascript&logoColor=51354D" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-704477?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### ✦ Ferramentas
+☽ Constelação de projetos
 
-<div align="center">
+Pequenos projetos, novos conhecimentos e experiências que fazem parte da minha evolução.
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/VS_Code_Insiders-24BFA5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
----
-
-## ✧ Projetos
-
-Meus projetos estão organizados nos repositórios do GitHub.
-Você pode explorar meus códigos, exercícios e experimentos
-em diferentes linguagens.
+✧ Tecnologia	☾ Projeto
+Dart	Molinari
+Python	Programação e Algoritmo
+HTML	Sandra
+CSS	Projeto Aula DS
+JavaScript	AvaliaçãoS
+SQL / MySQL	Banco de Dados
 
 <p align="center">
-  <a href="https://github.com/luapinho?tab=repositories">
-    <img src="https://img.shields.io/badge/Explorar%20meus%20reposit%C3%B3rios-c34c9b?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" />
-  </a>
+<a href="https://github.com/luapinho?tab=repositories">
+<img src="https://img.shields.io/badge/Explorar%20meu%20universo-704477?style=for-the-badge&logo=github&logoColor=FFF4FA" alt="Explorar meus repositórios" />
+</a>
 </p>
 
-| Tecnologia | Projetos |
-|:--|:--|
-| Dart | [visualizar](https://github.com/luapinho/Molinari.git) |
-| Python | [visualizar](https://github.com/luapinho/Programacao-Algoritmo.git) |
-| HTML | [visualizar](https://github.com/luapinho/Sandra.git) |
-| CSS | [visualizar](https://github.com/luapinho/Projeto-Aula-DS.git) |
-| JavaScript | [visualizar](https://github.com/luapinho/AvaliacaoS.git) |
-| SQL / MySQL | [visualizar]((https://github.com/luapinho/Banco_Dados.git)) |
+✦ Projetos compartilhados
 
 <p align="center">
+<a href="https://github.com/Pentabyte5/Trabalho-dev">
+<img src="https://img.shields.io/badge/Projeto%20em%20grupo-C783AC?style=for-the-badge&logo=github&logoColor=white" alt="Projeto em grupo" />
+</a>
 <a href="https://github.com/luapinho?tab=organizations">
-  <img src="https://img.shields.io/badge/🏢_Minhas_organizações-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Organiza%C3%A7%C3%B5es-8F5A91?style=for-the-badge&logo=github&logoColor=white" alt="Minhas organizações" />
+</a>
+</p>
+
+☾ Minha jornada no GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luapinho&show_icons=true&hide_border=true&bg_color=21172B&title_color=D9A4C7&icon_color=C783AC&text_color=F6EAF5" height="155" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luapinho&layout=compact&hide_border=true&bg_color=21172B&title_color=D9A4C7&text_color=F6EAF5" height="155" alt="Linguagens mais utilizadas" />
+</p>
+
+♡ Vamos nos conectar?
+
+<p align="center">
+<a href="https://www.instagram.com/lluanapinhok/">
+<img src="https://img.shields.io/badge/Instagram-C783AC?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/luana-pinho-b86a06412/">
+<img src="https://img.shields.io/badge/LinkedIn-8F5A91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:luanapinho1000@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-8F354F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 </p>
 
 <p align="center">
-<a|organização em grupo|</a>
-<a href="https://github.com/Pentabyte5/Trabalho-dev.git">
-  <img src="https://img.shields.io/badge/Minha_organização_em_grupo-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<i>Será um prazer compartilhar ideias e aprender em conjunto.</i>
 </p>
 
-## ✦ Atividade no GitHub
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=%E2%80%9CAt%C3%A9%20a%20Lua%20precisa%20de%20fases%20para%20brilhar.%E2%80%9D&fontSize=15&fontColor=C783AC" width="100%" alt="Até a Lua precisa de fases para brilhar" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=luapinho&show_icons=true&hide_border=true&bg_color=110d18&title_color=e7a4dc&icon_color=c34c9b&text_color=eee5f2"
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luapinho&layout=compact&hide_border=true&bg_color=110d18&title_color=e7a4dc&text_color=eee5f2"
-    height="165"
-    alt="Linguagens mais utilizadas"
-  />
+<p>
+☾　✧　<i>Em constante transformação, sempre descobrindo.</i>　✧　☽
 </p>
-
-<br></br>
----
-
-## ♡ Contato
-
-<p align="center">
-  <a href="https://www.instagram.com/lluanapinhok/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/luana-pinho-b86a06412/">
-    <img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:luanapinho1000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
----
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%80%9CEntre%20uma%20fase%20e%20outra%2C%20continuo%20descobrindo.%E2%80%9D&fontSize=17&fontColor=e7a4dc"
-    width="100%"
-    alt="Entre uma fase e outra, continuo descobrindo"
-  />
-</p>
-
-<p align="center">
-  ☾ &nbsp; <i>Um espaço para aprender, experimentar e continuar, com as fases da 🌙</i> &nbsp; ☽
-</p>
+</div>
